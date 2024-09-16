@@ -10,7 +10,7 @@ Hi there! I'm Luan Brant, a Computer Science student at PUC Minas and an aspirin
 🚀 My Goals
 To contribute to open-source projects and collaborate with other developers.
 To build a solid foundation in computer science and software engineering.
-To create innovative projects that showcase my growing skills in Python and C.
+To create innovative projects that showcase my growing skills in Python, Lua and C.
 
 📫 Get in Touch
 Feel free to reach out to me if you want to collaborate on a project, or just chat about tech!
