@@ -1,23 +1,25 @@
-Welcome to My GitHub Profile! 👋
-Hi there! I'm Luan Brant, a Computer Science student at PUC Minas and an aspiring programmer. I'm passionate about learning and building projects that solve real-world problems.
+Welcome to My GitHub Profile! 👋  
+Hey there! I'm Luan Brant, a Computer Science student at PUC Minas, with a strong interest in AI and cutting-edge technology. I'm passionate about creating innovative solutions and diving deep into the world of artificial intelligence and software engineering.
 
-🌟 About Me
+---
 
-🎓 Education: I'm currently pursuing my degree in Computer Science at PUC Minas.
+🌟 **About Me**
 
-💻 Programming Languages: I primarily work with Python and C. I enjoy exploring the intricacies of these languages and using them to create efficient and effective solutions.
+- 🎓 **Education**: Pursuing a degree in Computer Science at PUC Minas.
+- 💻 **Core Skills**: Python, C, and a growing knowledge of AI tools and frameworks.
+- 🔍 **Special Interests**: LLMOps, GenAI, multi-agent systems, LangChain, and CrewAI. I love working with AI tools to bring complex ideas to life.
 
-🌱 Learning: I'm constantly improving my skills and expanding my knowledge in software development.
+🌱 **Currently Learning**
+I’m constantly enhancing my expertise in AI/ML, software development, and the latest in AI infrastructure.
 
-🔍 Interests: I'm particularly interested in areas like algorithms, data structures, software development best practices, LLMOps & GenAI, and Multi-Agents.
+🚀 **Goals**
+- Contribute to open-source AI and GenAI projects.
+- Collaborate with like-minded AI scientists and engineers.
+- Build a solid foundation in AI engineering and applied machine learning.
+- Showcase projects that demonstrate my expertise in multi-agent systems and advanced AI development.
 
-🚀 My Goals
-To contribute to open-source projects and collaborate with other developers.
-To build a solid foundation in computer science and software engineering.
-To create innovative projects that showcase my growing skills in Python, Lua and C.
-
-📫 Get in Touch
-Feel free to reach out to me if you want to collaborate on a project, or just chat about tech!
+📫 **Get in Touch**
+I’d love to connect with other AI professionals and enthusiasts. Feel free to reach out if you’re interested in collaborating or just want to talk about tech and AI!
 
 Email: luanbrant212004@gmail.com
 LinkedIn: https://www.linkedin.com/in/luanbrant/
