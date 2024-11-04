@@ -7,7 +7,7 @@ Hi there! I'm Luan Brant, a Computer Science student at PUC Minas and an aspirin
 
 💻 Programming Languages: I primarily work with Python and C. I enjoy exploring the intricacies of these languages and using them to create efficient and effective solutions.
 
-🌱 Learning: As a beginner, I'm constantly improving my skills and expanding my knowledge in software development.
+🌱 Learning: I'm constantly improving my skills and expanding my knowledge in software development.
 
 🔍 Interests: I'm particularly interested in areas like algorithms, data structures, software development best practices, LLMOps & GenAI, and Multi-Agents.
 
