@@ -1,5 +1,5 @@
 Welcome to My GitHub Profile! 👋  
-Hey there! I'm Luan Brant, a Computer Science student at PUC Minas, with a strong interest in AI and cutting-edge technology. I'm passionate about creating innovative solutions and diving deep into the world of artificial intelligence and software engineering.
+Hey there! I'm Luan Brant, a Artificial Intelligence student at FIAP, with a strong interest in AI and cutting-edge technology. I'm passionate about creating innovative solutions and diving deep into the world of artificial intelligence and software engineering.
 
 ---
 
