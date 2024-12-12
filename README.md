@@ -6,8 +6,8 @@ Hey there! I'm Luan Brant, a Computer Scientist student at PUC-MG, with a strong
 🌟 **About Me**
 
 - 🎓 **Education**: Pursuing a degree in Computer Science at PUC Minas.
-- 💻 **Core Skills**: Python, C, and a growing knowledge of AI tools and frameworks.
-- 🔍 **Special Interests**: LLMOps, GenAI, multi-agent systems, LangChain, and CrewAI. I love working with AI tools to bring complex ideas to life.
+- 💻 **Core Skills**: Python | C | AI Agents | LLMOps & GenAI | LangChain | CrewAi | Multi-Agents.
+- 🔍 **Special Interests**: LLMOps, GenAI, multi-agent systems, LangChain, machine learning and CrewAI. I love working with AI tools to bring complex ideas to life.
 
 🌱 **Currently Learning**
 I’m constantly enhancing my expertise in AI/ML, software development, and the latest in AI infrastructure.
