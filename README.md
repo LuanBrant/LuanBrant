@@ -5,7 +5,7 @@ Hey there! I'm Luan Brant, a AI student at FIAP, with a strong interest in AI an
 
 🌟 **About Me**
 
-- 🎓 **Education**: Pursuing a degree in Computer Science at PUC Minas.
+- 🎓 **Education**: Pursuing a degree in Artificial Intelligence at FIAP.
 - 💻 **Core Skills**: Python | C | AI Agents | LLMOps & GenAI | LangChain | CrewAi | Multi-Agents.
 - 🔍 **Special Interests**: LLMOps, GenAI, multi-agent systems, LangChain, machine learning and CrewAI. I love working with AI tools to bring complex ideas to life.
 
