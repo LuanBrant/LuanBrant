@@ -1,12 +1,12 @@
 Welcome to My GitHub Profile! 👋  
-Hey there! I'm Luan Brant, a AI student at FIAP, with a strong interest in AI and cutting-edge technology. I'm passionate about creating innovative solutions and diving deep into the world of artificial intelligence and software engineering.
+Hey there! I'm Luan Brant, a AI Engineer / AI student at FIAP, with a strong interest in AI and cutting-edge technology. I'm passionate about creating innovative solutions and diving deep into the world of artificial intelligence and software engineering.
 
 ---
 
 🌟 **About Me**
 
 - 🎓 **Education**: Pursuing a degree in Artificial Intelligence at FIAP.
-- 💻 **Core Skills**: Python | C | AI Agents | LLMOps & GenAI | LangChain | CrewAi | Multi-Agents.
+- 💻 **Core Skills**: Python | AI Agents | LLMOps & GenAI | NPL | LangChain | CrewAi | LlamaIndex | Multi-Agents | Machine Learning.
 - 🔍 **Special Interests**: LLMOps, GenAI, multi-agent systems, LangChain, machine learning and CrewAI. I love working with AI tools to bring complex ideas to life.
 
 🌱 **Currently Learning**
